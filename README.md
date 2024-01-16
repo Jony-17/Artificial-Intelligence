@@ -3,3 +3,5 @@ The objective would be to design and implement a multi-agent system to manage tr
 - Use vehicle agents that generate simplified but realistic traffic patterns;
 - Integrate these agents to work in a coordinated way to optimize traffic flow;
 - Predict interruptions in traffic flow so that other agents can adapt to avoid them.
+
+In this project, Docker and Python were used.
